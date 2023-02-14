@@ -19,6 +19,12 @@ $users = [
         'age' => 28,
         'password' => 'laCasto28',
     ],
+    [
+      'full_name' => 'Sylvain Vandermeersch',
+      'email' => 'svdm@gmail.com',
+      'age' => 28,
+      'password' => '200594',
+  ],
 ];
 
 $recipes = [
